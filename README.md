@@ -20,13 +20,15 @@ N is an integer.
  
 Sample input:
  
-```2
- 3 15
+```
+2
+3 15
 ```
 
 Sample output:
  
-```1
+```
+1
 2
 Fizz
 1
